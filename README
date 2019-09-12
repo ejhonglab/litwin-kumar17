@@ -1,0 +1,26 @@
+litwin-kumar_et_al_dimension-2017
+Copyright (C) 2017 Ashok Litwin-Kumar
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+SUMMARY:
+This program implements the model of:
+A. Litwin-Kumar, K. D. Harris, R. Axel, H. Sompolinsky, & L. F. Abbott. Optimal degrees of connectivity. Neuron (2017).
+
+REQUIREMENTS:
+Components of this software use Julia (julialang.org), Python (python.org), and TensorFlow (tensorflow.org). Tested on Julia 1.0, Python 3.6, TensorFlow 1.5.
+
+CONTACT:
+ak3625@columbia.edu
+lk.zi.columbia.edu
